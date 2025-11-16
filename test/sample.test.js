@@ -1,7 +1,7 @@
 import test from "node:test";
 import assert from "node:assert";
 
-import { removeEmojis } from "../index.js";
+import { removeEmojis, cleanText } from "../index.js";
 
 test("remove emojis", () => {
     console.log(removeEmojis("Hello 😊"));
