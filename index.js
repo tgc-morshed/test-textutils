@@ -1,0 +1,1 @@
+export { removeEmojis } from "./src/removeEmojis.js";
