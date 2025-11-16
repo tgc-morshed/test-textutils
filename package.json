@@ -1,6 +1,6 @@
 {
   "name": "text-textutils",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A professional text utility library with emoji removal, text cleaning, and summarizing.",
   "main": "index.js",
   "type": "module",
