@@ -1,4 +1,4 @@
-# text-utils-pro
+# text-textutils
 
 A professional utility toolkit for working with text.  
 Includes emoji removal, text cleaning, and text summarizing.
@@ -20,7 +20,7 @@ Summarize text by word count (non-AI).
 
 # 📦 Installation
 
-npm install text-utils-pro
+npm install text-textutils
 
 pgsql
 Copy code
@@ -30,7 +30,7 @@ Copy code
 # 🧠 Usage
 
 ```js
-import { removeEmojis, cleanText, summarizeText } from "text-utils-pro";
+import { removeEmojis, cleanText, summarizeText } from "text-textutils";
 
 console.log(removeEmojis("Hello 😊 World 🌍"));
 // "Hello  World "
