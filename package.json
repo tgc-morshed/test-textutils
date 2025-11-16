@@ -1,6 +1,6 @@
 {
   "name": "text-textutils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A professional text utility library with emoji removal, text cleaning, and summarizing.",
   "main": "index.js",
   "type": "module",
@@ -16,7 +16,7 @@
     "test": "node --test",
     "prepublishOnly": "npm test"
   },
-   "repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/tgc-morshed/test-textutils.git"
   },
